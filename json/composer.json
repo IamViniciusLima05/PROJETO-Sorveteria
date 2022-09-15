@@ -1,0 +1,16 @@
+{
+    "name": "wks/pf",
+    "description": "cria\u0000\u0000o do projeto final",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinicius Lima",
+            "email": "vinicius.oliveira.d.s.lima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}
